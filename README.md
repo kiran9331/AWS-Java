@@ -4,4 +4,4 @@ This project is used for creating new bucket if exist then it will not create, d
 
 # Technology Used
 
-1. `JAVA SPRING BOOT`
+1. JAVA SPRING BOOT
